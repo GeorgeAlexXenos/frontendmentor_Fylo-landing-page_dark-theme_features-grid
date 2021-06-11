@@ -11,7 +11,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [live site URL here](https://georgealexxenos.github.io/frontendmentor_Fylo-landing-page_dark-theme_features-grid/)
 
 ## My process
 
