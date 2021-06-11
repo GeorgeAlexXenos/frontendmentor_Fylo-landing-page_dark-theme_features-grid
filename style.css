@@ -240,12 +240,14 @@ testimonials
   font-family: "Open Sans", sans-serif;
   position: relative;
 }
-.testimonials > img {
-  width: 35px;
+.quote {
   position: absolute;
-  z-index: -1;
-  top: -12px;
-  left: 24px;
+  left: 1.5rem;
+  top: -1.4rem;
+  z-index: 0;
+}
+.first {
+  z-index: 1;
 }
 .first,
 .second,
@@ -546,12 +548,7 @@ testimonials
     padding: 2rem 1.1rem 0.4rem 1.5rem;
   }
   .testimonials > img {
-    width: 38px;
-    height: 34px;
-    position: absolute;
-    z-index: -1;
-    top: -10px;
-    left: 24px;
+    left: 1.5rem;
   }
 }
 @media only screen and (min-width: 750px) {
